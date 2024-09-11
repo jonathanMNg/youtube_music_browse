@@ -29,8 +29,8 @@ Map<String, dynamic> initializeContext() {
       'client': {
         // "hl": Hive.box('SETTINGS').get('LANGUAGE', defaultValue: 'en-US'), // TODO
         // "gl": Hive.box('SETTINGS').get('LOCATION', defaultValue: 'US'), // TODO
-        "hl": 'en-US',
-        "gl": 'US',
+        // "hl": 'en-US',
+        // "gl": 'US',
         'clientName': 'WEB_REMIX',
         'clientVersion': '1.$date.01.00',
       },
