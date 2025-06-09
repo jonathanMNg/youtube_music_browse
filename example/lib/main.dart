@@ -24,14 +24,14 @@ void main() async {
   for(final section in sections) {
 
     print('${section.title} ${section.trailing?.endpoint}');
-    if( !(section.trailing?.playable??false) && section.trailing?.endpoint != null) {
-      final newSections = await ytCharts.browse(trailingParams: section.trailing!.endpoint, limit: 2);
-      print(newSections.length);
+    // if( !(section.trailing?.playable??false) && section.trailing?.endpoint != null) {
+    //   final newSections = await ytCharts.browse(trailingParams: section.trailing!.endpoint, limit: 2);
+    //   print(newSections.length);
       // print('newSections ${newSections.length}');
       // for(final section1 in newSections) {
       //   print('section1: ${section1.title}');
       // }
-    }
+    // }
     // for(final content in section.contents!) {
     //   pprint('content title: ${content.title} | type: ${content.type} | id: ${content.videoId} | playlistId: ${content.playlistId}');
     // }
