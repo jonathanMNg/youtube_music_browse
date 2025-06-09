@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:youtube_charts/youtube_charts.dart';
+import 'package:youtube_music_browse/youtube_music_browse.dart';
 import 'dart:convert';
 import 'dart:developer';
+import 'package:youtube_music_browse/ytmusic/ytmusic.dart';
 
 pprint(data) {
   const JsonEncoder encoder = JsonEncoder.withIndent('  ');
@@ -12,37 +13,42 @@ void main() async {
 
   WidgetsFlutterBinding.ensureInitialized();
   final ytCharts = YoutubeCharts();
+  await ytCharts.init();
+  // final data = await ytMusic.search('In the end');
+  // pprint(data);
+  // print(await ytMusic.getSearchSuggestions('In th'));
+  final sections = await ytCharts.search('In the end');
+
   // await ytCharts.init();
   // final firstSections = await ytCharts.getAllSections();
-  // for(final section in firstSections) {
-  //   if(section.title != null) {
-  //     print('${section.title} ${section.viewType} ${section.trailing?.endpoint}');
-  //     if( !(section.trailing?.playable??false) && section.trailing?.endpoint != null) {
-  //       final newSections = await ytCharts.browse(body: section.trailing!.endpoint, limit: 2);
-  //       print(newSections.length);
-  //       // print('newSections ${newSections.length}');
-  //       // for(final section1 in newSections) {
-  //       //   print('section1: ${section1.title}');
-  //       // }
-  //     }
-  //     // for(final content in section.contents!) {
-  //     //   pprint('content title: ${content.title} | type: ${content.type} | id: ${content.videoId} | playlistId: ${content.playlistId}');
-  //     // }
-  //   }
-  //   // else {
-  //   //   print(section.contents?.length);
-  //   // }
-  // }
-  final result = await ytCharts.browse(trailingParams: {
-    "browseId": "FEmusic_new_releases_albums"
-  });
-  for(final section in result) {
-    print('Section: ${section.title}');
-    if(section.viewType == ViewType.singleColumn) {
-      final contents = section.contents;
-      print('Length: ${contents?.length}');
+  for(final section in sections) {
+
+    print('${section.title} ${section.trailing?.endpoint}');
+    if( !(section.trailing?.playable??false) && section.trailing?.endpoint != null) {
+      final newSections = await ytCharts.browse(trailingParams: section.trailing!.endpoint, limit: 2);
+      print(newSections.length);
+      // print('newSections ${newSections.length}');
+      // for(final section1 in newSections) {
+      //   print('section1: ${section1.title}');
+      // }
     }
+    // for(final content in section.contents!) {
+    //   pprint('content title: ${content.title} | type: ${content.type} | id: ${content.videoId} | playlistId: ${content.playlistId}');
+    // }
+    // else {
+    //   print(section.contents?.length);
+    // }
   }
+  // final result = await ytCharts.browse(trailingParams: {
+  //   "browseId": "FEmusic_new_releases_albums"
+  // });
+  // for(final section in result) {
+  //   print('Section: ${section.title}');
+  //   if(section.viewType == ViewType.singleColumn) {
+  //     final contents = section.contents;
+  //     print('Length: ${contents?.length}');
+  //   }
+  // }
   // final nextSections = await ytCharts.getNextSections();
   // for(final section in nextSections) {
   //   if(section.title != null) {
@@ -88,3 +94,7 @@ class MyHomePage extends StatelessWidget {
     );
   }
 }
+
+
+
+

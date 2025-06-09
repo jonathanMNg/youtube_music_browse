@@ -1,0 +1,1122 @@
+{
+  "continuation": null,
+  "sections": [
+    {
+      "title": "Top result",
+      "trailing": {
+        "text": null,
+        "playable": false,
+        "endpoint": null
+      },
+      "contents": [
+        {
+          "thumbnails": [
+            {
+              "url": "https://lh3.googleusercontent.com/uE72emEZFH3TVtCZoIFYKmnf7vsb42RYQxb4X-lonyqPQuS_mLtKpLfBQ5JdHwUijfQo06BtSB7LoQ=w60-h60-p-l90-rj",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/uE72emEZFH3TVtCZoIFYKmnf7vsb42RYQxb4X-lonyqPQuS_mLtKpLfBQ5JdHwUijfQo06BtSB7LoQ=w120-h120-p-l90-rj",
+              "width": 120,
+              "height": 120
+            }
+          ],
+          "title": "Linkin Park",
+          "type": "ARTIST",
+          "endpoint": {
+            "browseId": "UCxgN32UVVztKAQd2HkXzBtw",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_ARTIST"
+              }
+            }
+          },
+          "subtitle": "Artist • 125M monthly audience"
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://lh3.googleusercontent.com/2Qt9Ht3xtFNJ-jQq4OuyHGaMfjqBTYZXtRtx3vTzzDbAkflPX3xosJpPSrlp4prhe8I_AmKm1iaGg_DS=w60-h60-l90-rj",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/2Qt9Ht3xtFNJ-jQq4OuyHGaMfjqBTYZXtRtx3vTzzDbAkflPX3xosJpPSrlp4prhe8I_AmKm1iaGg_DS=w120-h120-l90-rj",
+              "width": 120,
+              "height": 120
+            }
+          ],
+          "explicit": false,
+          "title": "Let You Fade",
+          "subtitle": "3.4M plays",
+          "videoId": "I-vcTugsQXY",
+          "type": "SONG",
+          "artists": [
+            {
+              "name": "Linkin Park",
+              "endpoint": {
+                "browseId": "UCxgN32UVVztKAQd2HkXzBtw",
+                "browseEndpointContextSupportedConfigs": {
+                  "browseEndpointContextMusicConfig": {
+                    "pageType": "MUSIC_PAGE_TYPE_ARTIST"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://lh3.googleusercontent.com/lkNJVMp3siDfSw_zVYj3tE6fQS7G6Gj2gzoxrIwS7K4TwqmL_uSBb9-PKACNLIP_7XLQib4tC5XwWbpD=w60-h60-l90-rj",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/lkNJVMp3siDfSw_zVYj3tE6fQS7G6Gj2gzoxrIwS7K4TwqmL_uSBb9-PKACNLIP_7XLQib4tC5XwWbpD=w120-h120-l90-rj",
+              "width": 120,
+              "height": 120
+            }
+          ],
+          "explicit": false,
+          "title": "In the End",
+          "subtitle": "2.8B plays",
+          "videoId": "BLZWkjBXfN8",
+          "type": "SONG",
+          "artists": [
+            {
+              "name": "Linkin Park",
+              "endpoint": {
+                "browseId": "UCxgN32UVVztKAQd2HkXzBtw",
+                "browseEndpointContextSupportedConfigs": {
+                  "browseEndpointContextMusicConfig": {
+                    "pageType": "MUSIC_PAGE_TYPE_ARTIST"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://lh3.googleusercontent.com/2Qt9Ht3xtFNJ-jQq4OuyHGaMfjqBTYZXtRtx3vTzzDbAkflPX3xosJpPSrlp4prhe8I_AmKm1iaGg_DS=w60-h60-l90-rj",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/2Qt9Ht3xtFNJ-jQq4OuyHGaMfjqBTYZXtRtx3vTzzDbAkflPX3xosJpPSrlp4prhe8I_AmKm1iaGg_DS=w120-h120-l90-rj",
+              "width": 120,
+              "height": 120
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/2Qt9Ht3xtFNJ-jQq4OuyHGaMfjqBTYZXtRtx3vTzzDbAkflPX3xosJpPSrlp4prhe8I_AmKm1iaGg_DS=w226-h226-l90-rj",
+              "width": 226,
+              "height": 226
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/2Qt9Ht3xtFNJ-jQq4OuyHGaMfjqBTYZXtRtx3vTzzDbAkflPX3xosJpPSrlp4prhe8I_AmKm1iaGg_DS=w544-h544-l90-rj",
+              "width": 544,
+              "height": 544
+            }
+          ],
+          "explicit": true,
+          "title": "From Zero (Deluxe Edition)",
+          "subtitle": "Album • Linkin Park • 2025",
+          "endpoint": {
+            "browseId": "MPREb_JpdB3ZZ3xT2",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_ALBUM"
+              }
+            }
+          },
+          "type": "ALBUM",
+          "artists": [
+            {
+              "name": "Linkin Park",
+              "endpoint": {
+                "browseId": "UCxgN32UVVztKAQd2HkXzBtw",
+                "browseEndpointContextSupportedConfigs": {
+                  "browseEndpointContextMusicConfig": {
+                    "pageType": "MUSIC_PAGE_TYPE_ARTIST"
+                  }
+                }
+              }
+            }
+          ],
+          "playlistId": "OLAK5uy_lL9dW1Y3Mm0MHkCrvhc12h1J3Qqrzj7-I"
+        }
+      ]
+    },
+    {
+      "title": "Albums",
+      "contents": [
+        {
+          "thumbnails": [
+            {
+              "url": "https://lh3.googleusercontent.com/lkNJVMp3siDfSw_zVYj3tE6fQS7G6Gj2gzoxrIwS7K4TwqmL_uSBb9-PKACNLIP_7XLQib4tC5XwWbpD=w60-h60-l90-rj",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/lkNJVMp3siDfSw_zVYj3tE6fQS7G6Gj2gzoxrIwS7K4TwqmL_uSBb9-PKACNLIP_7XLQib4tC5XwWbpD=w120-h120-l90-rj",
+              "width": 120,
+              "height": 120
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/lkNJVMp3siDfSw_zVYj3tE6fQS7G6Gj2gzoxrIwS7K4TwqmL_uSBb9-PKACNLIP_7XLQib4tC5XwWbpD=w226-h226-l90-rj",
+              "width": 226,
+              "height": 226
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/lkNJVMp3siDfSw_zVYj3tE6fQS7G6Gj2gzoxrIwS7K4TwqmL_uSBb9-PKACNLIP_7XLQib4tC5XwWbpD=w544-h544-l90-rj",
+              "width": 544,
+              "height": 544
+            }
+          ],
+          "explicit": false,
+          "title": "Hybrid Theory",
+          "subtitle": "Album • Linkin Park • 2000",
+          "endpoint": {
+            "browseId": "MPREb_bivSECiIj20",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_ALBUM"
+              }
+            }
+          },
+          "type": "ALBUM",
+          "artists": [
+            {
+              "name": "Linkin Park",
+              "endpoint": {
+                "browseId": "UCxgN32UVVztKAQd2HkXzBtw",
+                "browseEndpointContextSupportedConfigs": {
+                  "browseEndpointContextMusicConfig": {
+                    "pageType": "MUSIC_PAGE_TYPE_ARTIST"
+                  }
+                }
+              }
+            }
+          ],
+          "playlistId": "OLAK5uy_k4Xnda2Pxyc90mpntw7hdOPCA3JKeOkRY"
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://lh3.googleusercontent.com/dNfpEZtqYYsrHaHpSE9ik5vGgUSVLKE5DycRz8VMLdIQV_GYz7GpGUkMnU9I0926zLRQEAIUwdsjYCuG=w60-h60-l90-rj",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/dNfpEZtqYYsrHaHpSE9ik5vGgUSVLKE5DycRz8VMLdIQV_GYz7GpGUkMnU9I0926zLRQEAIUwdsjYCuG=w120-h120-l90-rj",
+              "width": 120,
+              "height": 120
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/dNfpEZtqYYsrHaHpSE9ik5vGgUSVLKE5DycRz8VMLdIQV_GYz7GpGUkMnU9I0926zLRQEAIUwdsjYCuG=w226-h226-l90-rj",
+              "width": 226,
+              "height": 226
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/dNfpEZtqYYsrHaHpSE9ik5vGgUSVLKE5DycRz8VMLdIQV_GYz7GpGUkMnU9I0926zLRQEAIUwdsjYCuG=w544-h544-l90-rj",
+              "width": 544,
+              "height": 544
+            }
+          ],
+          "explicit": false,
+          "title": "Meteora",
+          "subtitle": "Album • Linkin Park • 2003",
+          "endpoint": {
+            "browseId": "MPREb_qMlbe7gLeuH",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_ALBUM"
+              }
+            }
+          },
+          "type": "ALBUM",
+          "artists": [
+            {
+              "name": "Linkin Park",
+              "endpoint": {
+                "browseId": "UCxgN32UVVztKAQd2HkXzBtw",
+                "browseEndpointContextSupportedConfigs": {
+                  "browseEndpointContextMusicConfig": {
+                    "pageType": "MUSIC_PAGE_TYPE_ARTIST"
+                  }
+                }
+              }
+            }
+          ],
+          "playlistId": "OLAK5uy_nE-SkwNA6lYF99wd-MHzJVqThnUIJGe3I"
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://lh3.googleusercontent.com/-pm394HLjSt4bQLNAfz1YkQvOTNUmJL7YVjN6E_8Th-Bc0XpeVMKqwgc6frikyV0GSr3l4W7IBxJu1I=w60-h60-l90-rj",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/-pm394HLjSt4bQLNAfz1YkQvOTNUmJL7YVjN6E_8Th-Bc0XpeVMKqwgc6frikyV0GSr3l4W7IBxJu1I=w120-h120-l90-rj",
+              "width": 120,
+              "height": 120
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/-pm394HLjSt4bQLNAfz1YkQvOTNUmJL7YVjN6E_8Th-Bc0XpeVMKqwgc6frikyV0GSr3l4W7IBxJu1I=w226-h226-l90-rj",
+              "width": 226,
+              "height": 226
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/-pm394HLjSt4bQLNAfz1YkQvOTNUmJL7YVjN6E_8Th-Bc0XpeVMKqwgc6frikyV0GSr3l4W7IBxJu1I=w544-h544-l90-rj",
+              "width": 544,
+              "height": 544
+            }
+          ],
+          "explicit": true,
+          "title": "Papercuts",
+          "subtitle": "Album • Linkin Park • 2024",
+          "endpoint": {
+            "browseId": "MPREb_CzkuHfNPVWH",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_ALBUM"
+              }
+            }
+          },
+          "type": "ALBUM",
+          "artists": [
+            {
+              "name": "Linkin Park",
+              "endpoint": {
+                "browseId": "UCxgN32UVVztKAQd2HkXzBtw",
+                "browseEndpointContextSupportedConfigs": {
+                  "browseEndpointContextMusicConfig": {
+                    "pageType": "MUSIC_PAGE_TYPE_ARTIST"
+                  }
+                }
+              }
+            }
+          ],
+          "playlistId": "OLAK5uy_lpc8rLjItlSSjL7woDmZ-hmICM84teAfY"
+        }
+      ],
+      "trailing": {
+        "text": "Show all",
+        "endpoint": {
+          "query": "Linkin Park",
+          "params": "EgWKAQIYAWoSEAkQAxAOEAQQBRAKEBAQERAV"
+        }
+      }
+    },
+    {
+      "title": "Songs",
+      "contents": [
+        {
+          "thumbnails": [
+            {
+              "url": "https://lh3.googleusercontent.com/3lb7-tL4PY-j3wyHSpQlZuqDir6qBJ6mUhWtJUt7cnaxUWY2gyJ2RIVodgNex6kTivozvqj2V3vPszE52Q=w60-h60-l90-rj",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/3lb7-tL4PY-j3wyHSpQlZuqDir6qBJ6mUhWtJUt7cnaxUWY2gyJ2RIVodgNex6kTivozvqj2V3vPszE52Q=w120-h120-l90-rj",
+              "width": 120,
+              "height": 120
+            }
+          ],
+          "explicit": false,
+          "title": "Numb",
+          "subtitle": "3.3B plays",
+          "videoId": "Q7cQU86CDB0",
+          "type": "SONG",
+          "artists": [
+            {
+              "name": "Linkin Park",
+              "endpoint": {
+                "browseId": "UCxgN32UVVztKAQd2HkXzBtw",
+                "browseEndpointContextSupportedConfigs": {
+                  "browseEndpointContextMusicConfig": {
+                    "pageType": "MUSIC_PAGE_TYPE_ARTIST"
+                  }
+                }
+              }
+            }
+          ],
+          "album": {
+            "name": "Meteora (Bonus Edition)",
+            "endpoint": {
+              "browseId": "MPREb_eIeUqM4OeKG",
+              "browseEndpointContextSupportedConfigs": {
+                "browseEndpointContextMusicConfig": {
+                  "pageType": "MUSIC_PAGE_TYPE_ALBUM"
+                }
+              }
+            }
+          }
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://lh3.googleusercontent.com/R-yqivSHsR8ZWpKMy2vplo6LEK-c0XVA7SzRRHR0eUYa-Gazo1VnbVnmN1ifymUOuCmW5yxjFlNv-rBv=w60-h60-l90-rj",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/R-yqivSHsR8ZWpKMy2vplo6LEK-c0XVA7SzRRHR0eUYa-Gazo1VnbVnmN1ifymUOuCmW5yxjFlNv-rBv=w120-h120-l90-rj",
+              "width": 120,
+              "height": 120
+            }
+          ],
+          "explicit": true,
+          "title": "The Emptiness Machine",
+          "subtitle": "244M plays",
+          "videoId": "KBV_zpMm_0Q",
+          "type": "SONG",
+          "artists": [
+            {
+              "name": "Linkin Park",
+              "endpoint": {
+                "browseId": "UCxgN32UVVztKAQd2HkXzBtw",
+                "browseEndpointContextSupportedConfigs": {
+                  "browseEndpointContextMusicConfig": {
+                    "pageType": "MUSIC_PAGE_TYPE_ARTIST"
+                  }
+                }
+              }
+            }
+          ],
+          "album": {
+            "name": "From Zero",
+            "endpoint": {
+              "browseId": "MPREb_d1UkStdzUrN",
+              "browseEndpointContextSupportedConfigs": {
+                "browseEndpointContextMusicConfig": {
+                  "pageType": "MUSIC_PAGE_TYPE_ALBUM"
+                }
+              }
+            }
+          }
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://lh3.googleusercontent.com/2Qt9Ht3xtFNJ-jQq4OuyHGaMfjqBTYZXtRtx3vTzzDbAkflPX3xosJpPSrlp4prhe8I_AmKm1iaGg_DS=w60-h60-l90-rj",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/2Qt9Ht3xtFNJ-jQq4OuyHGaMfjqBTYZXtRtx3vTzzDbAkflPX3xosJpPSrlp4prhe8I_AmKm1iaGg_DS=w120-h120-l90-rj",
+              "width": 120,
+              "height": 120
+            }
+          ],
+          "explicit": false,
+          "title": "Up From the Bottom",
+          "subtitle": "38M plays",
+          "videoId": "pl0qSJ9sdLI",
+          "type": "SONG",
+          "artists": [
+            {
+              "name": "Linkin Park",
+              "endpoint": {
+                "browseId": "UCxgN32UVVztKAQd2HkXzBtw",
+                "browseEndpointContextSupportedConfigs": {
+                  "browseEndpointContextMusicConfig": {
+                    "pageType": "MUSIC_PAGE_TYPE_ARTIST"
+                  }
+                }
+              }
+            }
+          ],
+          "album": {
+            "name": "From Zero (Deluxe Edition)",
+            "endpoint": {
+              "browseId": "MPREb_JpdB3ZZ3xT2",
+              "browseEndpointContextSupportedConfigs": {
+                "browseEndpointContextMusicConfig": {
+                  "pageType": "MUSIC_PAGE_TYPE_ALBUM"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "trailing": {
+        "text": "Show all",
+        "endpoint": {
+          "query": "Linkin Park",
+          "params": "EgWKAQIIAWoSEAkQAxAOEAQQBRAKEBAQERAV"
+        }
+      }
+    },
+    {
+      "title": "Featured playlists",
+      "contents": [
+        {
+          "thumbnails": [
+            {
+              "url": "https://lh3.googleusercontent.com/9C3d21qcU09zs_hXxwSaiJThLYOhKWanV_-ZsKj6kFjVxHslevM8wtZKLiLI9fPQbYPoSAabhlVwFdw=w60-h60-l90-rj",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/9C3d21qcU09zs_hXxwSaiJThLYOhKWanV_-ZsKj6kFjVxHslevM8wtZKLiLI9fPQbYPoSAabhlVwFdw=w120-h120-l90-rj",
+              "width": 120,
+              "height": 120
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/9C3d21qcU09zs_hXxwSaiJThLYOhKWanV_-ZsKj6kFjVxHslevM8wtZKLiLI9fPQbYPoSAabhlVwFdw=w226-h226-l90-rj",
+              "width": 226,
+              "height": 226
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/9C3d21qcU09zs_hXxwSaiJThLYOhKWanV_-ZsKj6kFjVxHslevM8wtZKLiLI9fPQbYPoSAabhlVwFdw=w544-h544-l90-rj",
+              "width": 544,
+              "height": 544
+            }
+          ],
+          "explicit": false,
+          "title": "Presenting Linkin Park",
+          "subtitle": "Playlist • YouTube Music • 44 songs",
+          "endpoint": {
+            "browseId": "VLRDCLAK5uy_loGaNxpVmNaawt9htfXXYRYfm-D8xmHLY",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_PLAYLIST"
+              }
+            }
+          },
+          "type": "PLAYLIST",
+          "playlistId": "RDCLAK5uy_loGaNxpVmNaawt9htfXXYRYfm-D8xmHLY"
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://lh3.googleusercontent.com/SwnCSTcCVpPqtxMcy4NUz78uwC7XA4wkqlLobx2B-0DtVUhgY4sfk7tzw8Fscz5FADrFOMoKopiyr50=w60-h60-l90-rj",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/SwnCSTcCVpPqtxMcy4NUz78uwC7XA4wkqlLobx2B-0DtVUhgY4sfk7tzw8Fscz5FADrFOMoKopiyr50=w120-h120-l90-rj",
+              "width": 120,
+              "height": 120
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/SwnCSTcCVpPqtxMcy4NUz78uwC7XA4wkqlLobx2B-0DtVUhgY4sfk7tzw8Fscz5FADrFOMoKopiyr50=w226-h226-l90-rj",
+              "width": 226,
+              "height": 226
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/SwnCSTcCVpPqtxMcy4NUz78uwC7XA4wkqlLobx2B-0DtVUhgY4sfk7tzw8Fscz5FADrFOMoKopiyr50=w544-h544-l90-rj",
+              "width": 544,
+              "height": 544
+            }
+          ],
+          "explicit": false,
+          "title": "Linkin Park From Zero Tour",
+          "subtitle": "Playlist • YouTube Music • 32 songs",
+          "endpoint": {
+            "browseId": "VLRDCLAK5uy_nqvKsCBvSOVqs3wLsHMQo_82QIXLsAzZM",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_PLAYLIST"
+              }
+            }
+          },
+          "type": "PLAYLIST",
+          "playlistId": "RDCLAK5uy_nqvKsCBvSOVqs3wLsHMQo_82QIXLsAzZM"
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://lh3.googleusercontent.com/yy0AXuj8BP5bbugX66oS_pv0_ui0io-t2kKv_uCBXJihrFw6iTv04Dbt4d5V6UDtLzClpT93OadOOTlY=w60-h60-l90-rj",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/yy0AXuj8BP5bbugX66oS_pv0_ui0io-t2kKv_uCBXJihrFw6iTv04Dbt4d5V6UDtLzClpT93OadOOTlY=w120-h120-l90-rj",
+              "width": 120,
+              "height": 120
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/yy0AXuj8BP5bbugX66oS_pv0_ui0io-t2kKv_uCBXJihrFw6iTv04Dbt4d5V6UDtLzClpT93OadOOTlY=w226-h226-l90-rj",
+              "width": 226,
+              "height": 226
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/yy0AXuj8BP5bbugX66oS_pv0_ui0io-t2kKv_uCBXJihrFw6iTv04Dbt4d5V6UDtLzClpT93OadOOTlY=w544-h544-l90-rj",
+              "width": 544,
+              "height": 544
+            }
+          ],
+          "explicit": false,
+          "title": " '00s Rock",
+          "subtitle": "Playlist • YouTube Music • 100 songs",
+          "endpoint": {
+            "browseId": "VLRDCLAK5uy_keb_mIiClglpMd5ycINvnTwCkoIu5Ce3k",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_PLAYLIST"
+              }
+            }
+          },
+          "type": "PLAYLIST",
+          "playlistId": "RDCLAK5uy_keb_mIiClglpMd5ycINvnTwCkoIu5Ce3k"
+        }
+      ],
+      "trailing": {
+        "text": "Show all",
+        "endpoint": {
+          "query": "Linkin Park",
+          "params": "EgeKAQQoADgBahIQCRADEA4QBBAFEAoQEBAREBU%3D"
+        }
+      }
+    },
+    {
+      "title": "Videos",
+      "contents": [
+        {
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/A2Ojfv3ziXg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mnes6cRfbhSg8uiw2I0wEQAocNLw",
+              "width": 400,
+              "height": 225
+            }
+          ],
+          "explicit": false,
+          "title": "Linkin Park - Hybrid Theory [Full Album]",
+          "subtitle": "Video • The Pulse Music • 870K views • 54:38",
+          "videoId": "A2Ojfv3ziXg",
+          "type": "VIDEO"
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/zTEe03vjyEQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lES7HqaVwNVVIeSiz5SRLQn84cjA",
+              "width": 400,
+              "height": 225
+            }
+          ],
+          "explicit": false,
+          "title": "Linkin Park Greatest Hits | Numb, In Too Deep, Crawling & More",
+          "subtitle": "Video • The Pulse Music • 471K views • 1:10:33",
+          "videoId": "zTEe03vjyEQ",
+          "type": "VIDEO"
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/-JGVuqxSlBA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kWR7L4lTsh1xYsSy1dcAQA21lM2w",
+              "width": 400,
+              "height": 225
+            }
+          ],
+          "explicit": false,
+          "title": "BEST OF THE BEST LINKIN PARK FULL ALBUM",
+          "subtitle": "Video • MUSIK ENAK DIDENGAR 98.500 • 740K views • 29:05",
+          "videoId": "-JGVuqxSlBA",
+          "type": "VIDEO"
+        }
+      ],
+      "trailing": {
+        "text": "Show all",
+        "endpoint": {
+          "query": "Linkin Park",
+          "params": "EgWKAQIQAWoSEAkQAxAOEAQQBRAKEBAQERAV"
+        }
+      }
+    },
+    {
+      "title": "Artists",
+      "contents": [
+        {
+          "thumbnails": [
+            {
+              "url": "https://lh3.googleusercontent.com/y84ZrwVbS8r2vPTs3-DfuJtGNH8zj6tw6csHP-VfGIncq6UtDXrRkgDEHnlYLhc8ENsIVEH0ZXnk0wM1Lg=w60-h60-l90-rj",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/y84ZrwVbS8r2vPTs3-DfuJtGNH8zj6tw6csHP-VfGIncq6UtDXrRkgDEHnlYLhc8ENsIVEH0ZXnk0wM1Lg=w120-h120-l90-rj",
+              "width": 120,
+              "height": 120
+            }
+          ],
+          "explicit": false,
+          "title": "Chester Bennington",
+          "subtitle": "Artist • 40.5K subscribers",
+          "endpoint": {
+            "browseId": "UCR76iWurhf2z7pAfinSnIPw",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_ARTIST"
+              }
+            }
+          },
+          "type": "ARTIST",
+          "playlistId": "RDAOWTsb4EjPbA8LpSoVgXp6ZQ"
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://lh3.googleusercontent.com/ZVZzxkgWJvI-j0Yq3aJIzDpxk3FgSw-ajO9RNEmW-nM0MidorvOo_-k7qWBMOObaYcM5oIrErrQz7_s=w60-h60-p-l90-rj",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/ZVZzxkgWJvI-j0Yq3aJIzDpxk3FgSw-ajO9RNEmW-nM0MidorvOo_-k7qWBMOObaYcM5oIrErrQz7_s=w120-h120-p-l90-rj",
+              "width": 120,
+              "height": 120
+            }
+          ],
+          "explicit": false,
+          "title": "Evanescence",
+          "subtitle": "Artist • 85.9M monthly audience",
+          "endpoint": {
+            "browseId": "UC1ObIyFsDJn62iAZYLWcNxA",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_ARTIST"
+              }
+            }
+          },
+          "type": "ARTIST",
+          "playlistId": "RDAO91LqLUokd9H6aB3qnl1JYw"
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://lh3.googleusercontent.com/ZEJC3r4D4HkePs_ro2526h2C_qOuoTlrmG9VgwtLRYm5NCA2OJynVyz7a57js75uXYSWmPd5GbZnm1a33w=w60-h60-l90-rj",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://lh3.googleusercontent.com/ZEJC3r4D4HkePs_ro2526h2C_qOuoTlrmG9VgwtLRYm5NCA2OJynVyz7a57js75uXYSWmPd5GbZnm1a33w=w120-h120-l90-rj",
+              "width": 120,
+              "height": 120
+            }
+          ],
+          "explicit": false,
+          "title": "Linkin Park",
+          "subtitle": "Artist • 46 subscribers",
+          "endpoint": {
+            "browseId": "UC8QX_zW6v4zdE3JIN0JkNAQ",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_ARTIST"
+              }
+            }
+          },
+          "type": "ARTIST"
+        }
+      ],
+      "trailing": {
+        "text": "Show all",
+        "endpoint": {
+          "query": "Linkin Park",
+          "params": "EgWKAQIgAWoSEAkQAxAOEAQQBRAKEBAQERAV"
+        }
+      }
+    },
+    {
+      "title": "Community playlists",
+      "contents": [
+        {
+          "thumbnails": [
+            {
+              "url": "https://yt3.ggpht.com/pjSmnSXF4atXwdobGS9yvdahPyohXlEBJWFNG8AtJx8WE8JK8iZ6eJgi2RVExCniEMidCzQrkHg=s192",
+              "width": 192,
+              "height": 192
+            },
+            {
+              "url": "https://yt3.ggpht.com/pjSmnSXF4atXwdobGS9yvdahPyohXlEBJWFNG8AtJx8WE8JK8iZ6eJgi2RVExCniEMidCzQrkHg=s576",
+              "width": 576,
+              "height": 576
+            },
+            {
+              "url": "https://yt3.ggpht.com/pjSmnSXF4atXwdobGS9yvdahPyohXlEBJWFNG8AtJx8WE8JK8iZ6eJgi2RVExCniEMidCzQrkHg=s1200",
+              "width": 1200,
+              "height": 1200
+            }
+          ],
+          "explicit": false,
+          "title": "NIRVANA+KORN+PEARL JAM+LIMP BIZKIT+RHCP+LINKIN PARK+INCUBUS",
+          "subtitle": "Playlist • Angel Cerrato • 1.6M views",
+          "endpoint": {
+            "browseId": "VLPL_HHg3KJw1s5VAcEFCk7Tdd0ujeSEu4PR",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_PLAYLIST"
+              }
+            }
+          },
+          "type": "PLAYLIST",
+          "playlistId": "PL_HHg3KJw1s5VAcEFCk7Tdd0ujeSEu4PR"
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://yt3.ggpht.com/61YROaWA2njOhizwiyXg-njmb2RoYqhBu62Lw0cIPMr_OdUPgvWN4Ejv3vw9fX4F4k49tD3j5Q=s192",
+              "width": 192,
+              "height": 192
+            },
+            {
+              "url": "https://yt3.ggpht.com/61YROaWA2njOhizwiyXg-njmb2RoYqhBu62Lw0cIPMr_OdUPgvWN4Ejv3vw9fX4F4k49tD3j5Q=s576",
+              "width": 576,
+              "height": 576
+            },
+            {
+              "url": "https://yt3.ggpht.com/61YROaWA2njOhizwiyXg-njmb2RoYqhBu62Lw0cIPMr_OdUPgvWN4Ejv3vw9fX4F4k49tD3j5Q=s1200",
+              "width": 1200,
+              "height": 1200
+            }
+          ],
+          "explicit": false,
+          "title": "3 Doors, Creed, Nickleback, Staind, Hinder, 3 Day's Grace, Linkin Park, Shinedown,",
+          "subtitle": "Playlist • Jennifer Hill • 10M views",
+          "endpoint": {
+            "browseId": "VLPLk2cJLvvpgA5GegHMQfRuKWWUn8CpCfXh",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_PLAYLIST"
+              }
+            }
+          },
+          "type": "PLAYLIST",
+          "playlistId": "PLk2cJLvvpgA5GegHMQfRuKWWUn8CpCfXh"
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://yt3.ggpht.com/5MHTvQoswrNaw3jNZLgQf2WtzetN64K-Z9Qiu8KzhBtFRvXVharlwkx-xOb_0gFrueQhCxaaqQ4=s192",
+              "width": 192,
+              "height": 192
+            },
+            {
+              "url": "https://yt3.ggpht.com/5MHTvQoswrNaw3jNZLgQf2WtzetN64K-Z9Qiu8KzhBtFRvXVharlwkx-xOb_0gFrueQhCxaaqQ4=s576",
+              "width": 576,
+              "height": 576
+            },
+            {
+              "url": "https://yt3.ggpht.com/5MHTvQoswrNaw3jNZLgQf2WtzetN64K-Z9Qiu8KzhBtFRvXVharlwkx-xOb_0gFrueQhCxaaqQ4=s1200",
+              "width": 1200,
+              "height": 1200
+            }
+          ],
+          "explicit": false,
+          "title": "Coldplay, One Republic, Maroon 5, Passenger, Ed Sheeran, Linkin Park, twenty-one pilots and great alternative rock",
+          "subtitle": "Playlist • Judith Grossman • 11M views",
+          "endpoint": {
+            "browseId": "VLPLLO2uXaJwreqt6zN51B7tZ_E0fLjX7t7d",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_PLAYLIST"
+              }
+            }
+          },
+          "type": "PLAYLIST",
+          "playlistId": "PLLO2uXaJwreqt6zN51B7tZ_E0fLjX7t7d"
+        }
+      ],
+      "trailing": {
+        "text": "Show all",
+        "endpoint": {
+          "query": "Linkin Park",
+          "params": "EgeKAQQoAEABahIQCRADEA4QBBAFEAoQEBAREBU%3D"
+        }
+      }
+    },
+    {
+      "title": "Episodes",
+      "contents": [
+        {
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/bJBs9V11BlY/hqdefault.jpg?sqp=-oaymwEWCOADEI4CIAQqCggAEOADGC0guwJIWg&rs=AMzJL3nixU1bcI_ivYzGQLqlSlcinTY7jA",
+              "width": 480,
+              "height": 270
+            }
+          ],
+          "explicit": false,
+          "title": "Linkin Park On Jay-Z Collab, Chester's Legacy, Meeting Metallica, Adding Emily & More | Drink Champs",
+          "subtitle": "Episode • May 17 • DRINK CHAMPS",
+          "endpoint": {
+            "browseId": "MPEDbJBs9V11BlY",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_NON_MUSIC_AUDIO_TRACK_PAGE"
+              }
+            }
+          },
+          "videoId": "bJBs9V11BlY",
+          "type": "EPISODE"
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/1I8LiVAyYVg/hqdefault.jpg?sqp=-oaymwEWCOADEI4CIAQqCggAEOADGC0guwJIWg&rs=AMzJL3nv5Q24kWPRzBurhWLiqGRPEB-ULQ",
+              "width": 480,
+              "height": 270
+            }
+          ],
+          "explicit": false,
+          "title": "Linkin Park's Mike Shinoda Eats His Last Meal",
+          "subtitle": "Episode • Jan 7 • Last Meals",
+          "endpoint": {
+            "browseId": "MPED1I8LiVAyYVg",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_NON_MUSIC_AUDIO_TRACK_PAGE"
+              }
+            }
+          },
+          "videoId": "1I8LiVAyYVg",
+          "type": "EPISODE"
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/mRvC4orHhGE/hqdefault.jpg?sqp=-oaymwEWCOADEI4CIAQqCggAEOADGC0guwJIWg&rs=AMzJL3mEPeKiRzPNDMFxxp6bvsxoC1jmMA",
+              "width": 480,
+              "height": 270
+            }
+          ],
+          "explicit": false,
+          "title": "The TRUTH About Linkin Park's Reunion Tour",
+          "subtitle": "Episode • May 6 • Rock Feed News",
+          "endpoint": {
+            "browseId": "MPEDmRvC4orHhGE",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_NON_MUSIC_AUDIO_TRACK_PAGE"
+              }
+            }
+          },
+          "videoId": "mRvC4orHhGE",
+          "type": "EPISODE"
+        }
+      ],
+      "trailing": {
+        "text": "Show all",
+        "endpoint": {
+          "query": "Linkin Park",
+          "params": "EgWKAQJIAWoSEAkQAxAOEAQQBRAKEBAQERAV"
+        }
+      }
+    },
+    {
+      "title": "Podcasts",
+      "contents": [
+        {
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/pl_c/PLlqZM4covn1Fis11O0u6GY0kxxrmROYN8/studio_square_thumbnail.jpg?sqp=CMnal8IG-oaymwEICDwQPCAASFqi85f_AwYI_cf-vQY&rs=AMzJL3muupZ9T-1j3aDVN-gffvhj_5JSqg",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://i.ytimg.com/pl_c/PLlqZM4covn1Fis11O0u6GY0kxxrmROYN8/studio_square_thumbnail.jpg?sqp=CMnal8IG-oaymwEICHgQeCAASFqi85f_AwYI_cf-vQY&rs=AMzJL3kNQSeq3GhsuXunejI90T0lCk2yqg",
+              "width": 120,
+              "height": 120
+            },
+            {
+              "url": "https://i.ytimg.com/pl_c/PLlqZM4covn1Fis11O0u6GY0kxxrmROYN8/studio_square_thumbnail.jpg?sqp=CMnal8IG-oaymwEKCOIBEOIBIABIWqLzl_8DBgj9x_69Bg&rs=AMzJL3n83cRfBfBFfeN13N_TWo3jxUUifA",
+              "width": 226,
+              "height": 226
+            },
+            {
+              "url": "https://i.ytimg.com/pl_c/PLlqZM4covn1Fis11O0u6GY0kxxrmROYN8/studio_square_thumbnail.jpg?sqp=CMnal8IG-oaymwEKCKAEEKAEIABIWqLzl_8DBgj9x_69Bg&rs=AMzJL3mASz6BOP49lJu7PJNEfZa1V_BAoA",
+              "width": 544,
+              "height": 544
+            }
+          ],
+          "explicit": false,
+          "title": "From Zero: A Conversation with Mike Shinoda and Emily Armstrong",
+          "subtitle": "Podcast • Linkin Park",
+          "endpoint": {
+            "browseId": "MPSPPLlqZM4covn1Fis11O0u6GY0kxxrmROYN8",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_PODCAST_SHOW_DETAIL_PAGE"
+              }
+            }
+          },
+          "playlistId": "PLlqZM4covn1Fis11O0u6GY0kxxrmROYN8"
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/pl_c/PLSGPf8gMuowuARsHJ_x8owolHUICxXHFM/studio_square_thumbnail.jpg?sqp=CMnal8IG-oaymwEICDwQPCAASFqi85f_AwYI1IKHuAY&rs=AMzJL3m0u7EEbXKjiJgUbuwOHP_stubuLA",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://i.ytimg.com/pl_c/PLSGPf8gMuowuARsHJ_x8owolHUICxXHFM/studio_square_thumbnail.jpg?sqp=CMnal8IG-oaymwEICHgQeCAASFqi85f_AwYI1IKHuAY&rs=AMzJL3mORRMh6WFqzisH-2-aCPl12CPq6Q",
+              "width": 120,
+              "height": 120
+            },
+            {
+              "url": "https://i.ytimg.com/pl_c/PLSGPf8gMuowuARsHJ_x8owolHUICxXHFM/studio_square_thumbnail.jpg?sqp=CMnal8IG-oaymwEKCOIBEOIBIABIWqLzl_8DBgjUgoe4Bg&rs=AMzJL3npb-YPQqHddG1--Fy_tB60cmZcNQ",
+              "width": 226,
+              "height": 226
+            },
+            {
+              "url": "https://i.ytimg.com/pl_c/PLSGPf8gMuowuARsHJ_x8owolHUICxXHFM/studio_square_thumbnail.jpg?sqp=CMnal8IG-oaymwEKCKAEEKAEIABIWqLzl_8DBgjUgoe4Bg&rs=AMzJL3nEAkRkPCLb3rEwWITg8oq979q6Cw",
+              "width": 544,
+              "height": 544
+            }
+          ],
+          "explicit": false,
+          "title": "Linkin Park",
+          "subtitle": "Podcast • Grumpy&Ginger",
+          "endpoint": {
+            "browseId": "MPSPPLSGPf8gMuowuARsHJ_x8owolHUICxXHFM",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_PODCAST_SHOW_DETAIL_PAGE"
+              }
+            }
+          },
+          "playlistId": "PLSGPf8gMuowuARsHJ_x8owolHUICxXHFM"
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/pl_c/PL-K_1XDkIylCWEB8n_BwdJE543M_70hFO/studio_square_thumbnail.jpg?sqp=CMnal8IG-oaymwEICDwQPCAASFqi85f_AwYI-NnDoAY&rs=AMzJL3nGRQKx-1AHDc_1PzcHgWARL32mnw",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://i.ytimg.com/pl_c/PL-K_1XDkIylCWEB8n_BwdJE543M_70hFO/studio_square_thumbnail.jpg?sqp=CMnal8IG-oaymwEICHgQeCAASFqi85f_AwYI-NnDoAY&rs=AMzJL3mBF8I6fzzq0xgyX15EUrlr3-GchQ",
+              "width": 120,
+              "height": 120
+            },
+            {
+              "url": "https://i.ytimg.com/pl_c/PL-K_1XDkIylCWEB8n_BwdJE543M_70hFO/studio_square_thumbnail.jpg?sqp=CMnal8IG-oaymwEKCOIBEOIBIABIWqLzl_8DBgj42cOgBg&rs=AMzJL3lYF1_gdgBoPD-zsI9-2Gcx33H08w",
+              "width": 226,
+              "height": 226
+            },
+            {
+              "url": "https://i.ytimg.com/pl_c/PL-K_1XDkIylCWEB8n_BwdJE543M_70hFO/studio_square_thumbnail.jpg?sqp=CMnal8IG-oaymwEKCKAEEKAEIABIWqLzl_8DBgj42cOgBg&rs=AMzJL3mUJNcSPRKKe1iptEOL0tvbZTC_1Q",
+              "width": 544,
+              "height": 544
+            }
+          ],
+          "explicit": false,
+          "title": "Polymuse Podcast - Season 1: \"Linkin Park\"",
+          "subtitle": "Podcast • POLYMUSE PODCAST",
+          "endpoint": {
+            "browseId": "MPSPPL-K_1XDkIylCWEB8n_BwdJE543M_70hFO",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_PODCAST_SHOW_DETAIL_PAGE"
+              }
+            }
+          },
+          "playlistId": "PL-K_1XDkIylCWEB8n_BwdJE543M_70hFO"
+        }
+      ],
+      "trailing": {
+        "text": "Show all",
+        "endpoint": {
+          "query": "Linkin Park",
+          "params": "EgWKAQJQAWoSEAkQAxAOEAQQBRAKEBAQERAV"
+        }
+      }
+    },
+    {
+      "title": "Profiles",
+      "contents": [
+        {
+          "thumbnails": [
+            {
+              "url": "https://yt3.googleusercontent.com/kvfD8oWCMRFPMU2FnsOrKjtOIymfvNwzL5W7cWb_UE5CPDy78018_L5Rv7e_9WTJYvt_lilz=w60-c-h60-k-c0x00ffffff-no-l90-rj",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://yt3.googleusercontent.com/kvfD8oWCMRFPMU2FnsOrKjtOIymfvNwzL5W7cWb_UE5CPDy78018_L5Rv7e_9WTJYvt_lilz=w120-c-h120-k-c0x00ffffff-no-l90-rj",
+              "width": 120,
+              "height": 120
+            }
+          ],
+          "explicit": false,
+          "title": "La Esponja Fan de Linkin Park",
+          "subtitle": "Profile • @LaEsponjaFandeLinkinPark",
+          "endpoint": {
+            "browseId": "UCvljH7S-UXz6MstEvWwLfiA",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_USER_CHANNEL"
+              }
+            }
+          },
+          "type": "PROFILE"
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://yt3.googleusercontent.com/3guese1_Nm3XooDg4cf0wWmcc3cc2IJbhfre1pp8lgJHv4o_JGdx1afnv3rfiupTFdLRbva9YqY=w60-c-h60-k-c0x00ffffff-no-l90-rj",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://yt3.googleusercontent.com/3guese1_Nm3XooDg4cf0wWmcc3cc2IJbhfre1pp8lgJHv4o_JGdx1afnv3rfiupTFdLRbva9YqY=w120-c-h120-k-c0x00ffffff-no-l90-rj",
+              "width": 120,
+              "height": 120
+            }
+          ],
+          "explicit": false,
+          "title": "Central Linkin Park Brasil",
+          "subtitle": "Profile • @centrallinkinparkbrasil",
+          "endpoint": {
+            "browseId": "UCKIC5HNkd8HZmVgziCAKlvQ",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_USER_CHANNEL"
+              }
+            }
+          },
+          "type": "PROFILE"
+        },
+        {
+          "thumbnails": [
+            {
+              "url": "https://yt3.googleusercontent.com/p3lvpK9fTB1csdXAdXnxP7-5vuRM4XooACLZqPGP2PT2nvodl7AOR0eU2Mix8x1fH7P280xc6g=w60-c-h60-k-c0x00ffffff-no-l90-rj",
+              "width": 60,
+              "height": 60
+            },
+            {
+              "url": "https://yt3.googleusercontent.com/p3lvpK9fTB1csdXAdXnxP7-5vuRM4XooACLZqPGP2PT2nvodl7AOR0eU2Mix8x1fH7P280xc6g=w120-c-h120-k-c0x00ffffff-no-l90-rj",
+              "width": 120,
+              "height": 120
+            }
+          ],
+          "explicit": false,
+          "title": "Adam",
+          "subtitle": "Profile • @Adam-lastSon",
+          "endpoint": {
+            "browseId": "UCQr1n1PioPzTwJ1xA24-Guw",
+            "browseEndpointContextSupportedConfigs": {
+              "browseEndpointContextMusicConfig": {
+                "pageType": "MUSIC_PAGE_TYPE_USER_CHANNEL"
+              }
+            }
+          },
+          "type": "PROFILE"
+        }
+      ],
+      "trailing": {
+        "text": "Show all",
+        "endpoint": {
+          "query": "Linkin Park",
+          "params": "EgWKAQJYAWoSEAkQAxAOEAQQBRAKEBAQERAV"
+        }
+      }
+    }
+  ]
+}

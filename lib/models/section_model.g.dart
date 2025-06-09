@@ -11,24 +11,14 @@ Section _$SectionFromJson(Map<String, dynamic> json) => Section(
       trailing: json['trailing'] == null
           ? null
           : Trailing.fromJson(json['trailing'] as Map<String, dynamic>),
-      viewType: $enumDecodeNullable(_$ViewTypeEnumMap, json['viewType']),
       contents: Section._castContentsToMap(json['contents']),
-      strapline: json['strapline'] as String?,
     );
 
 Map<String, dynamic> _$SectionToJson(Section instance) => <String, dynamic>{
       'title': instance.title,
       'trailing': instance.trailing,
-      'strapline': instance.strapline,
-      'viewType': _$ViewTypeEnumMap[instance.viewType],
       'contents': instance.contents,
     };
-
-const _$ViewTypeEnumMap = {
-  ViewType.column: 'COLUMN',
-  ViewType.row: 'ROW',
-  ViewType.singleColumn: 'SINGLE_COLUMN',
-};
 
 Trailing _$TrailingFromJson(Map<String, dynamic> json) => Trailing(
       text: json['text'] as String?,
@@ -82,6 +72,8 @@ const _$ContentTypeEnumMap = {
   ContentType.artist: 'ARTIST',
   ContentType.album: 'ALBUM',
   ContentType.episode: 'EPISODE',
+  ContentType.profile: 'PROFILE',
+  ContentType.podcast: 'PODCAST',
   ContentType.unknown: 'unknown',
 };
 
@@ -112,16 +104,7 @@ Album _$AlbumFromJson(Map<String, dynamic> json) => Album(
       endpoint: json['endpoint'] as Map<String, dynamic>?,
     );
 
-Map<String, dynamic> _$AlbumToJson(Album instance) {
-  final val = <String, dynamic>{};
-
-  void writeNotNull(String key, dynamic value) {
-    if (value != null) {
-      val[key] = value;
-    }
-  }
-
-  writeNotNull('name', instance.name);
-  writeNotNull('endpoint', instance.endpoint);
-  return val;
-}
+Map<String, dynamic> _$AlbumToJson(Album instance) => <String, dynamic>{
+      if (instance.name case final value?) 'name': value,
+      if (instance.endpoint case final value?) 'endpoint': value,
+    };

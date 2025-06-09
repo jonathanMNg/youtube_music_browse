@@ -68,8 +68,18 @@ class YoutubeCharts {
     }
   }
 
-  Future<List<Section>> browse({Map<String, dynamic>? trailingParams, int limit = 2, String additionalParams = ''}) async {
+  Future<List<Section>> browse({Map<String, dynamic>? trailingParams, int limit = 3, String additionalParams = ''}) async {
     final Map<String, dynamic> results = await _ytMusic.browse(body: trailingParams, limit: limit, additionalParams: additionalParams);
+    final List<Section> sectionList = [];
+    final List<dynamic> sectionsJson = results['sections'];
+    for(final sectionJson in sectionsJson) {
+      sectionList.add(Section.fromJson(sectionJson.cast<String, dynamic>()));
+    }
+    return sectionList;
+  }
+
+  Future<List<Section>> search(String query, {String? filter, int limit = 3, bool ignoreSpelling = false, String additionalParams = '', Map<String, dynamic>? endpoint}) async {
+    final Map<String, dynamic> results = await _ytMusic.search(query, filter: filter, limit: limit, ignoreSpelling: ignoreSpelling, additionalParams: additionalParams, endpoint: endpoint);
     final List<Section> sectionList = [];
     final List<dynamic> sectionsJson = results['sections'];
     for(final sectionJson in sectionsJson) {

@@ -14,31 +14,23 @@ enum ContentType {
   album,
   @JsonValue('EPISODE')
   episode,
+  @JsonValue('PROFILE')
+  profile,
+  @JsonValue('PODCAST')
+  podcast,
   unknown
 }
 
-enum ViewType {
-  @JsonValue('COLUMN')
-  column,
-  @JsonValue('ROW')
-  row,
-  @JsonValue('SINGLE_COLUMN')
-  singleColumn,
-}
 @JsonSerializable()
 class Section {
   Section(
       {this.title,
       this.trailing,
-      this.viewType,
       this.contents,
-      this.strapline,
       });
 
   final String? title;
   final Trailing? trailing;
-  final String? strapline;
-  final ViewType? viewType;
   @JsonKey(fromJson: _castContentsToMap)
   final List<Content>? contents;
 
