@@ -1,0 +1,138 @@
+[
+  {
+    "type": "TEXT",
+    "query": "in the end"
+  },
+  {
+    "type": "TEXT",
+    "query": "in this moment"
+  },
+  {
+    "type": "TEXT",
+    "query": "in the stars"
+  },
+  {
+    "type": "TEXT",
+    "query": "in the air tonight"
+  },
+  {
+    "type": "TEXT",
+    "query": "in the name of love"
+  },
+  {
+    "type": "TEXT",
+    "query": "in the end linkin park"
+  },
+  {
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/lkNJVMp3siDfSw_zVYj3tE6fQS7G6Gj2gzoxrIwS7K4TwqmL_uSBb9-PKACNLIP_7XLQib4tC5XwWbpD=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/lkNJVMp3siDfSw_zVYj3tE6fQS7G6Gj2gzoxrIwS7K4TwqmL_uSBb9-PKACNLIP_7XLQib4tC5XwWbpD=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ],
+    "explicit": false,
+    "title": "In the End",
+    "subtitle": "Hybrid Theory (Bonus Edition)",
+    "videoId": "BLZWkjBXfN8",
+    "type": "SONG",
+    "artists": [
+      {
+        "name": "Linkin Park",
+        "endpoint": {
+          "browseId": "UCxgN32UVVztKAQd2HkXzBtw",
+          "browseEndpointContextSupportedConfigs": {
+            "browseEndpointContextMusicConfig": {
+              "pageType": "MUSIC_PAGE_TYPE_ARTIST"
+            }
+          }
+        }
+      }
+    ],
+    "album": {
+      "name": "Hybrid Theory (Bonus Edition)",
+      "endpoint": {
+        "browseId": "MPREb_m10OjDmOhfv",
+        "browseEndpointContextSupportedConfigs": {
+          "browseEndpointContextMusicConfig": {
+            "pageType": "MUSIC_PAGE_TYPE_ALBUM"
+          }
+        }
+      }
+    }
+  },
+  {
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/jv-FKhggMgWDpv6_bdncBxDjs49a4KKVm77VVZK7m35z765yLyzKsC53A9zUuqoTnrkmp7lyiNnBzw=w60-h60-p-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/jv-FKhggMgWDpv6_bdncBxDjs49a4KKVm77VVZK7m35z765yLyzKsC53A9zUuqoTnrkmp7lyiNnBzw=w120-h120-p-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ],
+    "explicit": false,
+    "title": "In This Moment",
+    "endpoint": {
+      "browseId": "UCusDGingyeC46IynU_aYE-w",
+      "browseEndpointContextSupportedConfigs": {
+        "browseEndpointContextMusicConfig": {
+          "pageType": "MUSIC_PAGE_TYPE_ARTIST"
+        }
+      }
+    },
+    "type": "ARTIST",
+    "playlistId": "RDAOFsRsgRnZzFSQUkbzLM-JNw"
+  },
+  {
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/OpgECuxTXBsN4lmNwrxY01Z-GgGMOAyFqRNNTrNW74lMboCmzsHrO58db-GUnCwKIvJQ1O0npfKDlnU=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/OpgECuxTXBsN4lmNwrxY01Z-GgGMOAyFqRNNTrNW74lMboCmzsHrO58db-GUnCwKIvJQ1O0npfKDlnU=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ],
+    "explicit": false,
+    "title": "In The Stars",
+    "subtitle": "Walk Me Home...",
+    "videoId": "IESmnavb5wY",
+    "type": "SONG",
+    "artists": [
+      {
+        "name": "Benson Boone",
+        "endpoint": {
+          "browseId": "UChN7Bcek6HoXA-j8K8T7olQ",
+          "browseEndpointContextSupportedConfigs": {
+            "browseEndpointContextMusicConfig": {
+              "pageType": "MUSIC_PAGE_TYPE_ARTIST"
+            }
+          }
+        }
+      }
+    ],
+    "album": {
+      "name": "Walk Me Home...",
+      "endpoint": {
+        "browseId": "MPREb_ITCjDYLmTnr",
+        "browseEndpointContextSupportedConfigs": {
+          "browseEndpointContextMusicConfig": {
+            "pageType": "MUSIC_PAGE_TYPE_ALBUM"
+          }
+        }
+      }
+    }
+  }
+]

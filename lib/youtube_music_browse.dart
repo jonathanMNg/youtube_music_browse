@@ -87,4 +87,10 @@ class YoutubeCharts {
     }
     return sectionList;
   }
+
+  Future<List<Map<String, dynamic>>> getSearchSuggestions(String query, {bool detailedRuns = false}) async {
+    return await _ytMusic.getSearchSuggestions(query, detailedRuns: detailedRuns);
+  }
+
+
 }

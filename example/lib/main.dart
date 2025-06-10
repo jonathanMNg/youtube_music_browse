@@ -16,14 +16,14 @@ void main() async {
   await ytCharts.init();
   // final data = await ytMusic.search('In the end');
   // pprint(data);
-  // print(await ytMusic.getSearchSuggestions('In th'));
-  final sections = await ytCharts.search('In the end');
+  // pprint(await ytCharts.getSearchSuggestions('In th'));
+  // final sections = await ytCharts.search('In the end');
 
   // await ytCharts.init();
   // final firstSections = await ytCharts.getAllSections();
-  for(final section in sections) {
-
-    print('${section.title} ${section.trailing?.endpoint}');
+  // for(final section in sections) {
+  //
+  //   print('${section.title} ${section.trailing?.endpoint}');
     // if( !(section.trailing?.playable??false) && section.trailing?.endpoint != null) {
     //   final newSections = await ytCharts.browse(trailingParams: section.trailing!.endpoint, limit: 2);
     //   print(newSections.length);
@@ -38,17 +38,18 @@ void main() async {
     // else {
     //   print(section.contents?.length);
     // }
-  }
-  // final result = await ytCharts.browse(trailingParams: {
-  //   "browseId": "FEmusic_new_releases_albums"
-  // });
-  // for(final section in result) {
-  //   print('Section: ${section.title}');
-  //   if(section.viewType == ViewType.singleColumn) {
-  //     final contents = section.contents;
-  //     print('Length: ${contents?.length}');
-  //   }
   // }
+  final result = await ytCharts.browse(trailingParams: {
+    "browseId": "UCxgN32UVVztKAQd2HkXzBtw",
+    "browseEndpointContextSupportedConfigs": {
+      "browseEndpointContextMusicConfig": {
+        "pageType": "MUSIC_PAGE_TYPE_ARTIST"
+      }
+    }
+  });
+  for(final section in result) {
+    print('Section: ${section.title}');
+  }
   // final nextSections = await ytCharts.getNextSections();
   // for(final section in nextSections) {
   //   if(section.title != null) {
